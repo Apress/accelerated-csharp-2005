@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=3_generics_1
+
+CSHARP_SOURCES=..\3_generics_1.cs

@@ -1,0 +1,15 @@
+DIRS=\
+     anonymous_1 \
+     anonymous_2 \
+     anonymous_3 \
+     basic_use_1 \
+     binder_1 \
+     binder_4 \
+     capture_1 \
+     capture_2 \
+     chained_1 \
+     chained_2 \
+     events_1 \
+     events_2 \
+     open_instance_1 \
+     open_instance_2

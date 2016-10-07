@@ -1,0 +1,10 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=7_rollback_1
+
+CSHARP_SOURCES=..\7_rollback_1.cs
+
+CLR_REFERENCES  = \
+    $(_NTTREE)\System.dll 
+

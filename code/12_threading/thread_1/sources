@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=thread_1
+
+CSHARP_SOURCES=..\thread_1.cs

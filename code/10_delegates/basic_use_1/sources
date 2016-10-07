@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=basic_use_1
+
+CSHARP_SOURCES=..\basic_use_1.cs

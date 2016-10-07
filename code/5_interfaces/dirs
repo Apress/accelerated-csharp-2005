@@ -1,0 +1,10 @@
+DIRS=\
+     crazy_1 \
+     diamond_2 \
+     diamond_3 \
+     diamond_4 \
+     diamond_5 \
+     diamond_6 \
+     method_search_1 \
+     value_type_1 \
+     value_type_2 

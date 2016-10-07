@@ -1,0 +1,20 @@
+DIRS=\
+     13_const_correct_1 \
+     13_convertible_1 \
+     13_dispose_1 \
+     13_dispose_2 \
+     13_finalize_2 \
+     13_formattable_1 \
+     13_nvi_1 \
+     13_nvi_2 \
+     13_string_oddity_1 \
+     13_strong_types_1 \
+     13_strong_types_2 \
+     13_typesafe_methods_1 \
+     13_value_equals_1 \
+     13_value_equals_2 \
+     4_equality_1 \
+     4_equality_3 \
+     4_ref_type_equals_1 \
+     4_references_1 \
+     4_references_2

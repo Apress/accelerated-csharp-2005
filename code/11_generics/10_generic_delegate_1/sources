@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_generic_delegate_1
+
+CSHARP_SOURCES=..\10_generic_delegate_1.cs

@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=crazy_1
+
+CSHARP_SOURCES=..\crazy_1.cs

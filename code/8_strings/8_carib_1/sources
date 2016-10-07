@@ -1,0 +1,10 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=8_carib_1
+
+CSHARP_SOURCES=..\8_carib_1.cs
+
+CLR_REFERENCES  = \
+    $(_NTTREE)\sysglobl.dll 
+

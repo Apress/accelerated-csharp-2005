@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=4_nested_classes_1
+
+CSHARP_SOURCES=..\4_nested_classes_1.cs

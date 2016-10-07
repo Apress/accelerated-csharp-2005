@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_typesafe_methods_1
+
+CSHARP_SOURCES=..\13_typesafe_methods_1.cs

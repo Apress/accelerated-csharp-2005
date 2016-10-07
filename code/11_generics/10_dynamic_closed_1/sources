@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_dynamic_closed_1
+
+CSHARP_SOURCES=..\10_dynamic_closed_1.cs

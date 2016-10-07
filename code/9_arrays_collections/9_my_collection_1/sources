@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=9_my_collection_1
+
+CSHARP_SOURCES=..\9_my_collection_1.cs

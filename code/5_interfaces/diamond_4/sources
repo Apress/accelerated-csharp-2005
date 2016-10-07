@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=diamond_4
+
+CSHARP_SOURCES=..\diamond_4.cs

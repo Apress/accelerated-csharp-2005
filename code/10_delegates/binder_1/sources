@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=binder_1
+
+CSHARP_SOURCES=..\binder_1.cs

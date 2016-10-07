@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=9_multidim_2
+
+CSHARP_SOURCES=..\9_multidim_2.cs

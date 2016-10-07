@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=capture_2
+
+CSHARP_SOURCES=..\capture_2.cs

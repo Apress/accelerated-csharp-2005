@@ -1,0 +1,9 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=async_3
+
+CSHARP_SOURCES=..\async_3.cs
+
+CLR_REFERENCES=\
+               $(_NTTREE)\system.dll

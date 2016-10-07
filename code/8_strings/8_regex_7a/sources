@@ -1,0 +1,10 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=8_regex_7a
+
+CSHARP_SOURCES=..\8_regex_7a.cs
+
+CLR_REFERENCES = \
+                 $(_NTTREE)\system.dll
+

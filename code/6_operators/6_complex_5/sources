@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=6_complex_5
+
+CSHARP_SOURCES=..\6_complex_5.cs

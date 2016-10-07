@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_dispose_1
+
+CSHARP_SOURCES=..\13_dispose_1.cs

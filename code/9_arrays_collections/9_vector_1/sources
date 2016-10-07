@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=9_vector_1
+
+CSHARP_SOURCES=..\9_vector_1.cs

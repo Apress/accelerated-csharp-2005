@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_convertible_1
+
+CSHARP_SOURCES=..\13_convertible_1.cs

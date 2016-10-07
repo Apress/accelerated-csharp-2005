@@ -1,0 +1,13 @@
+DIRS=\
+     10_delegates \
+     11_generics \
+     12_threading \
+     13_canonical_forms \
+     1_csharp_preview \
+     3_syntax_overview \
+     4_classes_structs \
+     5_interfaces \
+     6_operators \
+     7_exception_safety \
+     8_strings \
+     9_arrays_collections

@@ -1,0 +1,126 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>README</title>
+
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link=blue vlink=purple>
+
+<div class=Section1>
+
+<p class=MsoNormal>This zip file includes virtually all of the source code in <a
+href="http://www.apress.com/book/bookDisplay.html?bID=10160">Accelerated C#
+2005</a>.  Not every source file contains a static Main() method, therefore,
+those files will not compile.  For the files that do compile, they can
+typically be built by invoking the C# compiler (<span style='font-family:"Courier New"'>csc.exe</span>)
+from the command line as shown below:</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><span style='font-family:"Courier New"'>csc /debug+
+&lt;filename&gt;</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>Where <span style='font-family:"Courier New"'>&lt;filename&gt;</span>
+is replaced with the C# file you want to compile.  Of course, <span
+style='font-family:"Courier New"'>/debug+</span> is optional, but I’m assuming
+you may want to step through the code using <span style='font-family:"Courier New"'>cordbg</span>
+or <span style='font-family:"Courier New"'>DbgCLR</span>.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>In some circumstances, the default library references will
+not contain everything needed for the compilation.  For example, some of the
+examples using string globalization require <span style='font-family:"Courier New"'>sysglobl.dll</span>. 
+In those cases, you can simply add the needed references using the /r option to
+the compiler.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>You will also notice some files named <span
+style='font-family:"Courier New"'>dirs</span> and <span style='font-family:
+"Courier New"'>sources</span> throughout the tree.  These are used by the
+Microsoft build tool <span style='font-family:"Courier New"'>build.exe</span>. <span
+style='font-family:"Courier New"'>build.exe</span> is used heavily by Microsoft
+both internally and externally (shipped in the Windows Driver Kit) and is also
+the tool used to build the Shared Source CLI (sscli) implementation, commonly
+known as <a href="http://msdn.microsoft.com/net/sscli/">Rotor</a>.  If you’re
+not familiar with Rotor, it is a free, shared-source implementation of the CLI
+and much of the code in it is the actual code in the Microsoft CLR implementation. 
+Coupled with the <a
+href="http://www.ecma-international.org/publications/standards/Ecma-335.htm">CLI
+spec</a>, it is an excellent learning tool to become intimately familiar with
+the CLR.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>It is extremely easy to download and build Rotor.  If you
+have Rotor built on your system, then building all of the book’s sample code is
+easy.  Simply open a command prompt and after setting up the Rotor environment
+via <span style='font-family:"Courier New"'>env.bat</span>, change to the top
+level directory of the code tree where the <span style='font-family:"Courier New"'>sources.inc</span>
+file lives and do the following:</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><span style='font-family:"Courier New"'>build -ceg</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>Since Rotor does not contain all of the libraries contained
+in the .NET Framework distributed by Microsoft, there are a few examples that
+won’t compile due to missing references.  You can coerce the Rotor environment
+to use the .NET Framework libraries by simply setting the <span
+style='font-family:"Courier New"'>_NTTREE</span> environment variable to the
+full path of your framework location.  For example, on my machine that is:</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><span style='font-family:"Courier New"'>_NTTREE=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>After doing so, all of the examples will build using <span
+style='font-family:"Courier New"'>build.exe</span>.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>If you don’t want <span style='font-family:"Courier New"'>build.exe</span>
+to build everything, and you would prefer to only build the examples from one
+chapter, simply go to that directory and execute <span style='font-family:"Courier New"'>build.exe</span>
+from there.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>Have fun!</p>
+
+</div>
+
+</body>
+
+</html>

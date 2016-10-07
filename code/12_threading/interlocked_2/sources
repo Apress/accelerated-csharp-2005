@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=interlocked_2
+
+CSHARP_SOURCES=..\interlocked_2.cs

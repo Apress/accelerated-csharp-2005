@@ -1,0 +1,10 @@
+DIRS=\
+     3_generics_1 \
+     as_1 \
+     boxing \
+     conversions_1 \
+     is_1 \
+     references_1 \
+     references_2 \
+     references_3 \
+     values_1

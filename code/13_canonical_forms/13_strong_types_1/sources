@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_strong_types_1
+
+CSHARP_SOURCES=..\13_strong_types_1.cs

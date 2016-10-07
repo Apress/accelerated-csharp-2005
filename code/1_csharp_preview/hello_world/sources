@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=hello_world
+
+CSHARP_SOURCES=..\hello_world.cs

@@ -1,0 +1,19 @@
+DIRS=\
+     8_carib_1 \
+     8_carib_2 \
+     8_complex_1 \
+     8_complex_2 \
+     8_encoding_1 \
+     8_formatting_1 \
+     8_formatting_2 \
+     8_regex_1 \
+     8_regex_2 \
+     8_regex_3 \
+     8_regex_4 \
+     8_regex_5 \
+     8_regex_6 \
+     8_regex_7 \
+     8_regex_7a \
+     8_regex_8 \
+     8_stringbuilder_1 \
+     8_string_literals_1

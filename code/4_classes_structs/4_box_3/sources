@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=4_box_3
+
+CSHARP_SOURCES=..\4_box_3.cs

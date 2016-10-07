@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=open_instance_1
+
+CSHARP_SOURCES=..\open_instance_1.cs

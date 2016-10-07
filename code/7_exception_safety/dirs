@@ -1,0 +1,12 @@
+DIRS=\
+     7_exception_syntax_1 \
+     7_exception_syntax_2 \
+     7_exception_syntax_2a \
+     7_exception_syntax_3 \
+     7_exception_syntax_4 \
+     7_exception_syntax_5 \
+     7_rollback_1 \
+     7_safe_handle_1 \
+     7_using_1 \
+     7_using_2 \
+     7_using_3 

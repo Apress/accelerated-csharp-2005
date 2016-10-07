@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_constraints_3
+
+CSHARP_SOURCES=..\10_constraints_3.cs

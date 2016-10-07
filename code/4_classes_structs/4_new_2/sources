@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=4_new_2
+
+CSHARP_SOURCES=..\4_new_2.cs

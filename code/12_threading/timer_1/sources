@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=timer_1
+
+CSHARP_SOURCES=..\timer_1.cs

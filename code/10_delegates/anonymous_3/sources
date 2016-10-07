@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=anonymous_3
+
+CSHARP_SOURCES=..\anonymous_3.cs

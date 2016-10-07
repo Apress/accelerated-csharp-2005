@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=tls_1
+
+CSHARP_SOURCES=..\tls_1.cs

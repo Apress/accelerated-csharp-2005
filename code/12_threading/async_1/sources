@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=async_1
+
+CSHARP_SOURCES=..\async_1.cs

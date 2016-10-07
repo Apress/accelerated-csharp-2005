@@ -1,0 +1,20 @@
+DIRS=\
+     async_1 \
+     async_2 \
+     async_3 \
+     async_4 \
+     async_5 \
+     foreground_1 \
+     interlocked_1 \
+     interlocked_2 \
+     monitor_1 \
+     monitor_2 \
+     monitor_3 \
+     monitor_4 \
+     monitor_5 \
+     thread_1 \
+     thread_2 \
+     thread_abort_1 \
+     timer_1 \
+     tls2 \
+     tls_1

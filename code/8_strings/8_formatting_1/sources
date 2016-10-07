@@ -1,0 +1,9 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=8_formatting_1
+
+CSHARP_SOURCES=..\8_formatting_1.cs
+
+CLR_REFERENCES = \
+                 $(_NTTREE)\system.windows.forms.dll

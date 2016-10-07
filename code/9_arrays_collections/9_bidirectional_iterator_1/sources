@@ -1,0 +1,9 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=9_bidirectional_iterator_1
+
+CSHARP_SOURCES=..\9_bidirectional_iterator_1.cs
+
+CLR_REFERENCES = \
+                 $(_NTTREE)\system.dll

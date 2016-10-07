@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=method_search_1
+
+CSHARP_SOURCES=..\method_search_1.cs

@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=chained_2
+
+CSHARP_SOURCES=..\chained_2.cs

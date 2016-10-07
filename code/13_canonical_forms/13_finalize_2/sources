@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_finalize_2
+
+CSHARP_SOURCES=..\13_finalize_2.cs

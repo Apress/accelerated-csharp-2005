@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_value_equals_2
+
+CSHARP_SOURCES=..\13_value_equals_2.cs

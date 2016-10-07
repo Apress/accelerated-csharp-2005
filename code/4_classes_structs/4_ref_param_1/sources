@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=4_ref_param_1
+
+CSHARP_SOURCES=..\4_ref_param_1.cs

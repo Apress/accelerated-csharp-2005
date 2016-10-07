@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=values_1
+
+CSHARP_SOURCES=..\values_1.cs

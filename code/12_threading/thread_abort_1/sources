@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=thread_abort_1
+
+CSHARP_SOURCES=..\thread_abort_1.cs

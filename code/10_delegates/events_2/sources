@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=events_2
+
+CSHARP_SOURCES=..\events_2.cs

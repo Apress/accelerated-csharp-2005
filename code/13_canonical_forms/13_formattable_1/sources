@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_formattable_1
+
+CSHARP_SOURCES=..\13_formattable_1.cs

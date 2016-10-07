@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_default_value_1
+
+CSHARP_SOURCES=..\10_default_value_1.cs

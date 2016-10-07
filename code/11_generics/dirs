@@ -1,0 +1,19 @@
+DIRS=\
+     10_constraints_2 \
+     10_constraints_3 \
+     10_constraints_examples_1 \
+     10_default_value_1 \
+     10_default_value_2 \
+     10_delegate_constraint \
+     10_dynamic_closed_1 \
+     10_generic_delegate_1 \
+     10_generic_problems_1 \
+     10_generic_problems_3 \
+     10_generic_problems_4 \
+     10_generic_problems_5 \
+     10_generic_problems_6 \
+     10_generic_sorted_list_1 \
+     10_generic_vs_nongeneric \
+     10_no_delegate_for_type_argument \
+     10_nullable_1 \
+     10_template_method_1

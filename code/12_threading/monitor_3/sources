@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=monitor_3
+
+CSHARP_SOURCES=..\monitor_3.cs

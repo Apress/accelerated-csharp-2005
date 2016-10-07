@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=4_ctor_struct_1
+
+CSHARP_SOURCES=..\4_ctor_struct_1.cs

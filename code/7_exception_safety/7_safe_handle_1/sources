@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=7_safe_handle_1
+
+CSHARP_SOURCES=..\7_safe_handle_1.cs

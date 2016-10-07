@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_template_method_1
+
+CSHARP_SOURCES=..\10_template_method_1.cs

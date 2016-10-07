@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_nvi_2
+
+CSHARP_SOURCES=..\13_nvi_2.cs

@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=13_const_correct_1
+
+CSHARP_SOURCES=..\13_const_correct_1.cs

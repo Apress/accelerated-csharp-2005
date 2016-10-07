@@ -1,0 +1,17 @@
+DIRS=\
+     9_array_1 \
+     9_array_2 \
+     9_bidirectional_iterator_1 \
+     9_circular_iterator_1 \
+     9_enumerable_1 \
+     9_jagged_1 \
+     9_multidim_1 \
+     9_multidim_2 \
+     9_mycoll_1 \
+     9_mycoll_2 \
+     9_mycoll_3 \
+     9_mycoll_4 \
+     9_mycoll_5 \
+     9_my_collection_1 \
+     9_reverse_iterator_1 \
+     9_vector_1

@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_no_delegate_for_type_argument
+
+CSHARP_SOURCES=..\10_no_delegate_for_type_argument.cs

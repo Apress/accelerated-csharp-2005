@@ -1,0 +1,9 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=10_generic_vs_nongeneric
+
+CSHARP_SOURCES=..\10_generic_vs_nongeneric.cs
+
+CLR_REFERENCES=\
+               $(_NTTREE)\system.dll

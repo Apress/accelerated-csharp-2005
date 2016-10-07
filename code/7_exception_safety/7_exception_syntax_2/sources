@@ -1,0 +1,6 @@
+!INCLUDE ..\..\sources.inc
+
+
+TARGETNAME=7_exception_syntax_2
+
+CSHARP_SOURCES=..\7_exception_syntax_2.cs
